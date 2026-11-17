@@ -1,0 +1,10 @@
+# data and generated model files
+train.csv
+*.joblib
+
+# python and jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
